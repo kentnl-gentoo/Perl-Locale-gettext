@@ -21,4 +21,4 @@ requires: {}
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/vandry/Perl-Locale-gettext
-version: 1.06
+version: 1.07
